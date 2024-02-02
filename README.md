@@ -5,9 +5,7 @@
   <img src="https://raw.githubusercontent.com/Nicosoy/Nicosoy/main/giphy.gif" alt="GIF">
 </p>
 
-<p align="center">
-  <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN" alt="GIF">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicosoy&label=Profile%20views&color=0e75b6&style=flat" alt="nicosoy" /> </p>
 
 - 🔭 I’m currently working on [Age and gender prediction](https://github.com/Nicosoy/Age-and-gender-prediction)
 
