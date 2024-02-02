@@ -2,7 +2,8 @@
 <h3 align="center">Data scientist with expertise in data analysis, statistics, and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicosoy&label=Profile%20views&color=0e75b6&style=flat" alt="nicosoy" /> </p>
-<img src="(https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN)">
+
+<img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">
 
 
 - 🔭 I’m currently working on [Age and gender prediction](https://github.com/Nicosoy/Age-and-gender-prediction)
