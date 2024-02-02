@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Martín</h1>
 <h3 align="center">Data scientist with expertise in data analysis, statistics, and machine learning.</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/Nicosoy/Nicosoy/main/giphy.gif" alt="GIF">
+<p align="center"> <img src="https://raw.githubusercontent.com/Nicosoy/Nicosoy/main/giphy.gif" alt="GIF">
 </p>
 
 <img src="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN">
